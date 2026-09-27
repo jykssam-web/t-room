@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.0",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.0/TRoom_1.0.0_setup.exe",
-  "size": 24831140,
-  "sha256": "93b11b04c25934e92a5a99180dcf51362313e8810d2777fccd2c717e32ea2742",
-  "notes": "처음 나눠 드리는 판입니다."
+  "version": "1.0.1",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.1/TRoom_1.0.1_setup.exe",
+  "size": 24830910,
+  "sha256": "be707637ce830178c4361ca3b01931695f1a33f5557cf956d998f0f03eea9866",
+  "notes": "업데이트 알림이 잘 오는지 확인하는 판입니다. 쓰시던 자료는 그대로 남습니다."
 }
