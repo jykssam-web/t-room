@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.1",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.1/TRoom_1.0.1_setup.exe",
-  "size": 24830910,
-  "sha256": "be707637ce830178c4361ca3b01931695f1a33f5557cf956d998f0f03eea9866",
-  "notes": "업데이트 알림이 잘 오는지 확인하는 판입니다. 쓰시던 자료는 그대로 남습니다."
+  "version": "1.0.2",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.2/TRoom_1.0.2_setup.exe",
+  "size": 24853336,
+  "sha256": "073bd403794cbc0b5423ef89e19133ba1c024e666e96ddcfab6a70bd7749392e",
+  "notes": "업데이트할 때 「응용 프로그램을 닫지 못했습니다」 창이 뜨던 것을 고쳤습니다. 업무분장표·내선번호표를 한글에서 통째로 복사해 붙여넣으면 알아서 칸을 나눠 넣습니다."
 }
