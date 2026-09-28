@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.3",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.3/TRoom_1.0.3_setup.exe",
-  "size": 25189497,
-  "sha256": "4cfa2ae3b8fad1b07ffba53d4f78387494df1467d50a6666ce500abbabc5355e",
-  "notes": "도구 메뉴에 새 도구 10개: 글 다듬기, 공문→할 일, 생기부 점검, 생기부 문장 만들기, 수업 교체 찾기, 가정통신문, 서명부·명렬표, 점수 환산, 상담 정리, 교사 자기실적평가서. 홈 달력이 오늘 날짜부터 보이고, 할 일 추가 날짜가 오늘로 잡히며, 지운 쪽지가 달력에서 빠지도록 고쳤습니다."
+  "version": "1.0.4",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.4/TRoom_1.0.4_setup.exe",
+  "size": 25198512,
+  "sha256": "3bf0baecae39d13afca61a9dc24f599076f877d978a33333451f66d523952ef3",
+  "notes": "도구에 교과 진도표 추가: 반마다 어디까지 나갔는지 칸을 눌러 표시"
 }
