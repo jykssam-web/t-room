@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.2",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.2/TRoom_1.0.2_setup.exe",
-  "size": 24853336,
-  "sha256": "073bd403794cbc0b5423ef89e19133ba1c024e666e96ddcfab6a70bd7749392e",
-  "notes": "업데이트할 때 「응용 프로그램을 닫지 못했습니다」 창이 뜨던 것을 고쳤습니다. 업무분장표·내선번호표를 한글에서 통째로 복사해 붙여넣으면 알아서 칸을 나눠 넣습니다."
+  "version": "1.0.3",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.3/TRoom_1.0.3_setup.exe",
+  "size": 25189497,
+  "sha256": "4cfa2ae3b8fad1b07ffba53d4f78387494df1467d50a6666ce500abbabc5355e",
+  "notes": "도구 메뉴에 새 도구 10개: 글 다듬기, 공문→할 일, 생기부 점검, 생기부 문장 만들기, 수업 교체 찾기, 가정통신문, 서명부·명렬표, 점수 환산, 상담 정리, 교사 자기실적평가서. 홈 달력이 오늘 날짜부터 보이고, 할 일 추가 날짜가 오늘로 잡히며, 지운 쪽지가 달력에서 빠지도록 고쳤습니다."
 }
