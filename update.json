@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.4",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.4/TRoom_1.0.4_setup.exe",
-  "size": 25198512,
-  "sha256": "3bf0baecae39d13afca61a9dc24f599076f877d978a33333451f66d523952ef3",
-  "notes": "도구에 교과 진도표 추가: 반마다 어디까지 나갔는지 칸을 눌러 표시"
+  "version": "1.0.5",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.5/TRoom_1.0.5_setup.exe",
+  "size": 25200884,
+  "sha256": "279dc54d79b8f7f4cf73477361fc0973523de6b9b5dd0a30657b65a4250cf73f",
+  "notes": "폰에서 시간표 칸을 누르면 그 반 진도 표시 · 폰 시간표가 비어 보이던 것 고침"
 }
