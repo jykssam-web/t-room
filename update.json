@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.6",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.6/TRoom_1.0.6_setup.exe",
-  "size": 25221185,
-  "sha256": "6fd2cc17a771a62d0f84c4ea1d6cd37cf36cae340fed38d3ea4d402085a055e8",
-  "notes": "하단 「수업관리」 신설(진도표·수업 반 명단·수합·관찰 메모·수행평가·생기부) · 가정통신문 칸 배치 · 수합 추가 안내"
+  "version": "1.0.7",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.7/TRoom_1.0.7_setup.exe",
+  "size": 25221579,
+  "sha256": "650cedd6ff37ea16314c012730aee37df958000792a4bb6250b9e4f09da04113",
+  "notes": "쪽지 저장 시 날짜가 9월 14일로 들어가던 문제 고침 · 쪽지 원문 보기 · AI 날짜 연도 바로잡기"
 }
