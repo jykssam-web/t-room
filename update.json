@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.9",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.9/TRoom_1.0.9_setup.exe",
-  "size": 25435488,
-  "sha256": "2381e4a8bf197f1377296ae2785609c942ec2cb6a24ccb8773eb20343040dac4",
-  "notes": "수업 시작 정각 알림(1-4 수업입니다) · 시험·행사 날 쉼 · 업무분장 담임 칸 · 명단 붙여넣기 개선 · 글자 정리 · 위젯 단축키 · 홈 카드 자리·크기 조절 · 자리 배치 그림 저장·칠판 위치"
+  "version": "1.0.10",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.10/TRoom_1.0.10_setup.exe",
+  "size": 25437304,
+  "sha256": "b34f185bdb07731cc04fedaae87699ac3f2f9633e679cb7b122f7689e30b246b",
+  "notes": "수업 알림: 채우기 뒤 점심시간 표시 · 나이스 학사일정의 학년·휴업일로 쉬는 날을 더 정확히 가림(행사를 못 보던 문제 고침)"
 }
