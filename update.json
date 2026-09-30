@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.10",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.10/TRoom_1.0.10_setup.exe",
-  "size": 25437304,
-  "sha256": "b34f185bdb07731cc04fedaae87699ac3f2f9633e679cb7b122f7689e30b246b",
-  "notes": "수업 알림: 채우기 뒤 점심시간 표시 · 나이스 학사일정의 학년·휴업일로 쉬는 날을 더 정확히 가림(행사를 못 보던 문제 고침)"
+  "version": "1.0.11",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.11/TRoom_1.0.11_setup.exe",
+  "size": 25442750,
+  "sha256": "4847e6e850c8be34cb2ee1b7c491130d36b24fa058daad97a1baa35e455a3de4",
+  "notes": "쪽지: 창을 안 연 쪽지도 쪽지함과 대조해 다시 가져옴(10분마다) · 같은 쪽지가 두 줄로 들어오지 않게 막음"
 }
