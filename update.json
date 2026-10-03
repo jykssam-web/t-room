@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.13",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.13/TRoom_1.0.13_setup.exe",
-  "size": 25450922,
-  "sha256": "93dedd893f1127f4003cc0087bab7b7c6d9b640e58918919dfbb0762035aa38d",
-  "notes": "자리 배치 엑셀 붙여넣기·인쇄 가운데 · 담임반 명단 저절로 채움 · 폰 연동 1시간마다 · 오늘 할 일 스크롤 · 폰과 PC 출결은 나중 것을 남기고 체크는 지킴"
+  "version": "1.0.14",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.14/TRoom_1.0.14_setup.exe",
+  "size": 25454002,
+  "sha256": "d2f5a4cee1f286fa4b5d230dbb4a6cad8fde081f548da7e31acb80562c7d724c",
+  "notes": "수합 대상 고르기(교직원 부서·담임·교과, 담임반, 수업반) · 달력 할 일 목록 간격 · 학급 명단 일괄 등록 안내"
 }
