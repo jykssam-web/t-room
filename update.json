@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.14",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.14/TRoom_1.0.14_setup.exe",
-  "size": 25454002,
-  "sha256": "d2f5a4cee1f286fa4b5d230dbb4a6cad8fde081f548da7e31acb80562c7d724c",
-  "notes": "수합 대상 고르기(교직원 부서·담임·교과, 담임반, 수업반) · 달력 할 일 목록 간격 · 학급 명단 일괄 등록 안내"
+  "version": "1.0.15",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.15/TRoom_1.0.15_setup.exe",
+  "size": 25457432,
+  "sha256": "f6d1b7e70514541d7dbc88e4d4f58a3af5c8c0ec8f572ba5310dc581baaef1c9",
+  "notes": "업무 검색 결과 간추림 · 상담 정리를 학급관리로 · 학년부는 학년 담임 전체 · 바로가기 파비콘"
 }
