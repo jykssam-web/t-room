@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.16",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.16/TRoom_1.0.16_setup.exe",
-  "size": 25460436,
-  "sha256": "f9fefde347d6bceccd5dd09fd9b1ec3af75585fef2a72d5cef49a41b7b60ad0b",
-  "notes": "시간표 교사·담임·타학급·타교사 보기 · 수업관리/학급관리 탭을 홈 카드로 · 폴더 바로가기 한 줄 표시"
+  "version": "1.0.17",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.17/TRoom_1.0.17_setup.exe",
+  "size": 25461826,
+  "sha256": "14a70bb5c377a1c9b15369c9a7eaf218fae366f007bcd17f68564ce4ccaf5b3a",
+  "notes": "폴더·웹 바로가기 이름 수정"
 }
