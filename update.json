@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.15",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.15/TRoom_1.0.15_setup.exe",
-  "size": 25457432,
-  "sha256": "f6d1b7e70514541d7dbc88e4d4f58a3af5c8c0ec8f572ba5310dc581baaef1c9",
-  "notes": "업무 검색 결과 간추림 · 상담 정리를 학급관리로 · 학년부는 학년 담임 전체 · 바로가기 파비콘"
+  "version": "1.0.16",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.16/TRoom_1.0.16_setup.exe",
+  "size": 25460436,
+  "sha256": "f9fefde347d6bceccd5dd09fd9b1ec3af75585fef2a72d5cef49a41b7b60ad0b",
+  "notes": "시간표 교사·담임·타학급·타교사 보기 · 수업관리/학급관리 탭을 홈 카드로 · 폴더 바로가기 한 줄 표시"
 }
