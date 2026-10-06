@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.18",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.18/TRoom_1.0.18_setup.exe",
-  "size": 25462813,
-  "sha256": "6f59c7d860a8528e200e29be556f87891e3a671cf81c5e19a8b96b7123eff118",
-  "notes": "홈 카드 격자 배치(겹치면 밀고 빈 곳 채움) · 진도표 항목 끌어서 순서 바꾸기 · 설정 일반을 프로그램 설정으로"
+  "version": "1.0.19",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.19/TRoom_1.0.19_setup.exe",
+  "size": 25465273,
+  "sha256": "367c216ed79643619d8b36791c41580b0e48878f6a7cede460b01b49ab7621cc",
+  "notes": "홈 카드 옮기기·늘리기 보완(숨긴 카드·자리 맞바꾸기·이웃 줄이기) · 도구를 홈 카드로"
 }
