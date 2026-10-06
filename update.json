@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.19",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.19/TRoom_1.0.19_setup.exe",
-  "size": 25465273,
-  "sha256": "367c216ed79643619d8b36791c41580b0e48878f6a7cede460b01b49ab7621cc",
-  "notes": "홈 카드 옮기기·늘리기 보완(숨긴 카드·자리 맞바꾸기·이웃 줄이기) · 도구를 홈 카드로"
+  "version": "1.0.20",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.20/TRoom_1.0.20_setup.exe",
+  "size": 25466821,
+  "sha256": "ea3a618a6bb8a517fb1eb26b6ba6d23c6aa4e64177f884f24e74904abcb19ef5",
+  "notes": "홈 화면 편집: 카드를 밀지 않는 자유 배치 · 저장한 배치 유지 · 설정창 체크 표시 수정"
 }
