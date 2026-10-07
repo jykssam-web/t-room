@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.21",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.21/TRoom_1.0.21_setup.exe",
-  "size": 25467866,
-  "sha256": "f046fe23e6ca738541e3ba91a5c00f65c15c5c0d5a9e658e6ff1c2ade1af969c",
-  "notes": "홈 카드 크기를 모서리·가장자리 어디서나 · 늘리면 맞닿은 카드가 줄어듦 · 숨긴 묶음 자리 비움"
+  "version": "1.0.22",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.22/TRoom_1.0.22_setup.exe",
+  "size": 25714699,
+  "sha256": "448b636215ac9bc7ee87dcfcecb0c51f1460a31708e01c6a9bad72a423d24fa9",
+  "notes": "쪽지 요약을 줄마다 분류·날짜로 저장 · 홈 진도표 카드 5반까지 · 홈 도구 카드 설명 감춤"
 }
