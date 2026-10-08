@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.22",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.22/TRoom_1.0.22_setup.exe",
-  "size": 25714699,
-  "sha256": "448b636215ac9bc7ee87dcfcecb0c51f1460a31708e01c6a9bad72a423d24fa9",
-  "notes": "쪽지 요약을 줄마다 분류·날짜로 저장 · 홈 진도표 카드 5반까지 · 홈 도구 카드 설명 감춤"
+  "version": "1.0.23",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.23/TRoom_1.0.23_setup.exe",
+  "size": 25712485,
+  "sha256": "17f87008e827b7628e02ab5f775aa1f404bc62a50f87203039a1d392eca729ae",
+  "notes": "홈에서 숨긴 카드와 카드 크기를 다음 날에도 그대로 기억합니다 · 홈 카드가 흐트러지던 문제 고침"
 }
