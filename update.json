@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.23",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.23/TRoom_1.0.23_setup.exe",
-  "size": 25712485,
-  "sha256": "17f87008e827b7628e02ab5f775aa1f404bc62a50f87203039a1d392eca729ae",
-  "notes": "홈에서 숨긴 카드와 카드 크기를 다음 날에도 그대로 기억합니다 · 홈 카드가 흐트러지던 문제 고침"
+  "version": "1.0.24",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.24/TRoom_1.0.24_setup.exe",
+  "size": 25713411,
+  "sha256": "c61b2048f920a01d9bd4ff1b2c48eb6635218351ad617f65dc208d041e9eaaa0",
+  "notes": "업데이트할 때 티룸이 다 꺼지지 않아 설치가 멈추던 문제 고침"
 }
