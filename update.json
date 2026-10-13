@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.26",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.26/TRoom_1.0.26_setup.exe",
-  "size": 27776389,
-  "sha256": "152b2f065c2281be3ed9ecdbd868d2692506007dac8555d5b69f72ac6e8eb55a",
-  "notes": "같은 쪽지가 두 줄로 들어오던 것 고침(창으로 읽은 쪽지를 쪽지함 대조가 또 담음) · 이미 겹친 줄은 켤 때 정리"
+  "version": "1.0.27",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.27/TRoom_1.0.27_setup.exe",
+  "size": 27779375,
+  "sha256": "8018587625422067538833bf1041bbbb55eb08a940550292d6a5de609acded7b",
+  "notes": "설정 화면을 카드로 정리: 현재값과 선택지를 바로 보고 고르기, 글꼴·글자 크기 선택 추가"
 }
