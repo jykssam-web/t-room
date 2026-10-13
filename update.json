@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.25",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.25/TRoom_1.0.25_setup.exe",
-  "size": 27770267,
-  "sha256": "4b747d9ba8b9f2493c5310e9ec4a46836ddddc765c38fa1b2d0cdedea7ccfa47",
-  "notes": "설정 > 프로그램 설정에 「중복 쪽지 진단」 단추 · 화면 글꼴 Pretendard 내장 · 도구 화면 「＋ 도구 추가」 단추 뺌"
+  "version": "1.0.26",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.26/TRoom_1.0.26_setup.exe",
+  "size": 27776389,
+  "sha256": "152b2f065c2281be3ed9ecdbd868d2692506007dac8555d5b69f72ac6e8eb55a",
+  "notes": "같은 쪽지가 두 줄로 들어오던 것 고침(창으로 읽은 쪽지를 쪽지함 대조가 또 담음) · 이미 겹친 줄은 켤 때 정리"
 }
