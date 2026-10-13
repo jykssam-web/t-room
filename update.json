@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.24",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.24/TRoom_1.0.24_setup.exe",
-  "size": 25713411,
-  "sha256": "c61b2048f920a01d9bd4ff1b2c48eb6635218351ad617f65dc208d041e9eaaa0",
-  "notes": "업데이트할 때 티룸이 다 꺼지지 않아 설치가 멈추던 문제 고침"
+  "version": "1.0.25",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.25/TRoom_1.0.25_setup.exe",
+  "size": 27770267,
+  "sha256": "4b747d9ba8b9f2493c5310e9ec4a46836ddddc765c38fa1b2d0cdedea7ccfa47",
+  "notes": "설정 > 프로그램 설정에 「중복 쪽지 진단」 단추 · 화면 글꼴 Pretendard 내장 · 도구 화면 「＋ 도구 추가」 단추 뺌"
 }
