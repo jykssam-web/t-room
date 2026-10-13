@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.28",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.28/TRoom_1.0.28_setup.exe",
-  "size": 27776636,
-  "sha256": "6b9c7dee4e893d9dec589e251c5ccf692b2e09e885b6d4a83f9cf38cc27c29fc",
-  "notes": "홈 바로가기 모양 개선(웹 상자 줄임·폴더 글씨 키움), 설정에 중복 정리 단추 추가"
+  "version": "1.0.29",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.29/TRoom_1.0.29_setup.exe",
+  "size": 27781599,
+  "sha256": "800c8f848732824795d7bdeae06017203daaf206405b11dce2f26df9b44a36d2",
+  "notes": "쪽지함 대조가 내가 보낸 쪽지를 받은 쪽지로 담지 않게 고침, 이미 들어간 줄은 중복 정리에서 걷음"
 }
