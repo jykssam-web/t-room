@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.29",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.29/TRoom_1.0.29_setup.exe",
-  "size": 27781599,
-  "sha256": "800c8f848732824795d7bdeae06017203daaf206405b11dce2f26df9b44a36d2",
-  "notes": "쪽지함 대조가 내가 보낸 쪽지를 받은 쪽지로 담지 않게 고침, 이미 들어간 줄은 중복 정리에서 걷음"
+  "version": "1.0.30",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.30/TRoom_1.0.30_setup.exe",
+  "size": 27781090,
+  "sha256": "55029dd2d9c6952a640e1e9353e08686970040c4b9ecaee925a4a194a7619535",
+  "notes": "켤 때 쪽지 정리를 대조와 따로 돌리고 감시 기록을 남김(중복 진단에 함께 표시)"
 }
