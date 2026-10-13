@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.27",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.27/TRoom_1.0.27_setup.exe",
-  "size": 27779375,
-  "sha256": "8018587625422067538833bf1041bbbb55eb08a940550292d6a5de609acded7b",
-  "notes": "설정 화면을 카드로 정리: 현재값과 선택지를 바로 보고 고르기, 글꼴·글자 크기 선택 추가"
+  "version": "1.0.28",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.28/TRoom_1.0.28_setup.exe",
+  "size": 27776636,
+  "sha256": "6b9c7dee4e893d9dec589e251c5ccf692b2e09e885b6d4a83f9cf38cc27c29fc",
+  "notes": "홈 바로가기 모양 개선(웹 상자 줄임·폴더 글씨 키움), 설정에 중복 정리 단추 추가"
 }
