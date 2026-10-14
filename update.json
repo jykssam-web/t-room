@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.31",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.31/TRoom_1.0.31_setup.exe",
-  "size": 27784233,
-  "sha256": "4a598cb99fdbc5c57bb91eed25120fe378b6953656f5db47d9b38512c2803216",
-  "notes": "절전했다 아침에 열면 켤 때 하는 일(백업·학사일정·쪽지 정리·어제 못 한 일 묻기)이 안 돌던 것을 고침 — 새벽 4시 이후 날짜가 바뀌면 다시 돌림"
+  "version": "1.0.32",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.32/TRoom_1.0.32_setup.exe",
+  "size": 27783204,
+  "sha256": "9add772cf006918c2ef051b8b6fbb4303fc3ddb8464fc4900667f637ede17aea",
+  "notes": "API 키 발급 창을 크롬으로 더 확실히 열고(크롬이 다른 자리에 깔려 있어도 찾음), 업무분장·학급관리를 처음 눌렀을 때 비어 있으면 입력 안내창을 띄움"
 }
