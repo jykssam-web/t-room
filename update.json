@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.32",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.32/TRoom_1.0.32_setup.exe",
-  "size": 27783204,
-  "sha256": "9add772cf006918c2ef051b8b6fbb4303fc3ddb8464fc4900667f637ede17aea",
-  "notes": "API 키 발급 창을 크롬으로 더 확실히 열고(크롬이 다른 자리에 깔려 있어도 찾음), 업무분장·학급관리를 처음 눌렀을 때 비어 있으면 입력 안내창을 띄움"
+  "version": "1.0.33",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.33/TRoom_1.0.33_setup.exe",
+  "size": 27783540,
+  "sha256": "c3ced595f14d149e8ad766d71730b460c1812acb64aa466c8f497b4b426f4bd5",
+  "notes": "화면이 작은 노트북에서 D-day·폴더·웹 바로가기 글씨가 카드에 맞게 줄어 잘리지 않고, D-day 글자가 글자 크기 설정을 따라감"
 }
