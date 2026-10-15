@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.34",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.34/TRoom_1.0.34_setup.exe",
-  "size": 27781558,
-  "sha256": "08adb755460fb4f69d65ade753f49d830652ac9829e3323823b0ff2fddac083b",
-  "notes": "홈 바로가기를 미니 카드로 바꿈: 웹은 사이트 아이콘과 이름, 폴더는 폴더 아이콘과 이름, ＋ 카드로 추가"
+  "version": "1.0.35",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.35/TRoom_1.0.35_setup.exe",
+  "size": 27786190,
+  "sha256": "efb09fa584cb64b632e722c633e70a3c25141f930783b41248073f79c0e0cc1e",
+  "notes": "모니터별 설정 저장: 큰 보조 모니터를 떼고 노트북 화면만 써도 홈 카드 배치·글자 크기·위젯 자리가 그 화면에 맞게 따로 기억됨"
 }
