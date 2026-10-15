@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.33",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.33/TRoom_1.0.33_setup.exe",
-  "size": 27783540,
-  "sha256": "c3ced595f14d149e8ad766d71730b460c1812acb64aa466c8f497b4b426f4bd5",
-  "notes": "화면이 작은 노트북에서 D-day·폴더·웹 바로가기 글씨가 카드에 맞게 줄어 잘리지 않고, D-day 글자가 글자 크기 설정을 따라감"
+  "version": "1.0.34",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.34/TRoom_1.0.34_setup.exe",
+  "size": 27781558,
+  "sha256": "08adb755460fb4f69d65ade753f49d830652ac9829e3323823b0ff2fddac083b",
+  "notes": "홈 바로가기를 미니 카드로 바꿈: 웹은 사이트 아이콘과 이름, 폴더는 폴더 아이콘과 이름, ＋ 카드로 추가"
 }
