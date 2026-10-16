@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.35",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.35/TRoom_1.0.35_setup.exe",
-  "size": 27786190,
-  "sha256": "efb09fa584cb64b632e722c633e70a3c25141f930783b41248073f79c0e0cc1e",
-  "notes": "모니터별 설정 저장: 큰 보조 모니터를 떼고 노트북 화면만 써도 홈 카드 배치·글자 크기·위젯 자리가 그 화면에 맞게 따로 기억됨"
+  "version": "1.0.36",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.36/TRoom_1.0.36_setup.exe",
+  "size": 27784609,
+  "sha256": "33bf6844081e049bcb20eb6c40c6f8c347f1c8ff55cd198fe53fff264b7ea95f",
+  "notes": "지각은 인정지각일 때만 결석신고서 확인 할일이 생기도록 고침"
 }
