@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.38",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.38/TRoom_1.0.38_setup.exe",
-  "size": 27787791,
-  "sha256": "84cf2958b677772d30b5c1dd98498500dbb9cbcb929dbcbcf656a98fd430d0dd",
-  "notes": "컴퓨터를 켜면 티룸이 트레이에 숨지 않고 창으로 바로 뜹니다(위젯으로 쓰던 PC도 켤 때는 창 모드). 자동 시작 등록이 낡았으면 저절로 고칩니다."
+  "version": "1.0.39",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.39/TRoom_1.0.39_setup.exe",
+  "size": 27792453,
+  "sha256": "270a16e96deaa4515ac549c3fbe0cd305c52080d22a4335b06f7d2ccb965909e",
+  "notes": "켤 때마다 홈 카드 배치가 흐트러지던 것을 고쳤습니다. 창을 마지막에 쓰던 모니터·크기로 다시 엽니다. 카드 편집: 막대가 아래로 내려가 윗줄을 가리지 않고, 카드 × 로 숨기기, 빈 곳 오른쪽 클릭으로 카드 넣기, 옆 카드 높이에 자석처럼 맞추기."
 }
