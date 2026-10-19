@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.36",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.36/TRoom_1.0.36_setup.exe",
-  "size": 27784609,
-  "sha256": "33bf6844081e049bcb20eb6c40c6f8c347f1c8ff55cd198fe53fff264b7ea95f",
-  "notes": "지각은 인정지각일 때만 결석신고서 확인 할일이 생기도록 고침"
+  "version": "1.0.37",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.37/TRoom_1.0.37_setup.exe",
+  "size": 27789101,
+  "sha256": "eff9bb3e15e945069db7db3ff57251b05977bc9445faa7b56a1d028df7f70c22",
+  "notes": "보조 모니터를 달아도 노트북 화면의 홈 카드 배치·글자 크기가 그대로 나오게 고침. 설정 화면에서 스위치·확인 단추를 이름 바로 옆으로 옮김"
 }
