@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.40",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.40/TRoom_1.0.40_setup.exe",
-  "size": 27796016,
-  "sha256": "0e059342fb8d36c25d242d8d6eceb42c9e9e70d951bdf8abd5f29aa31de8501a",
-  "notes": "마감·기한 없는·출결·상담 카드의 목록이 넘치면 스크롤바가 생깁니다. 카드마다 글자 크기를 따로 조절할 수 있습니다(카드 설정 ⚙ 또는 카드에 마우스를 올리면 나오는 Aa). 진도표의 순서 끌기 손잡이를 크게 키웠습니다."
+  "version": "1.0.41",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.41/TRoom_1.0.41_setup.exe",
+  "size": 27798744,
+  "sha256": "360d65d180cf9a916a9ff960fea65184aa36d607a668de05c0b635da02c94db9",
+  "notes": "수업 알림창(○교시 수업입니다)이 켜 둔 파워포인트 쇼 같은 다른 창에 덮여도 계속 맨 앞으로 올라옵니다."
 }
