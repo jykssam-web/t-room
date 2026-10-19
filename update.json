@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.37",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.37/TRoom_1.0.37_setup.exe",
-  "size": 27789101,
-  "sha256": "eff9bb3e15e945069db7db3ff57251b05977bc9445faa7b56a1d028df7f70c22",
-  "notes": "보조 모니터를 달아도 노트북 화면의 홈 카드 배치·글자 크기가 그대로 나오게 고침. 설정 화면에서 스위치·확인 단추를 이름 바로 옆으로 옮김"
+  "version": "1.0.38",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.38/TRoom_1.0.38_setup.exe",
+  "size": 27787791,
+  "sha256": "84cf2958b677772d30b5c1dd98498500dbb9cbcb929dbcbcf656a98fd430d0dd",
+  "notes": "컴퓨터를 켜면 티룸이 트레이에 숨지 않고 창으로 바로 뜹니다(위젯으로 쓰던 PC도 켤 때는 창 모드). 자동 시작 등록이 낡았으면 저절로 고칩니다."
 }
