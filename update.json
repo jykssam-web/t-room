@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.45",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.45/TRoom_1.0.45_setup.exe",
-  "size": 27786793,
-  "sha256": "8afba3f4ef0781fed86e9efed7ccf8b96e4ca3327c36c6d67aa6ab4708aa7408",
-  "notes": "학급관리 > 출결에서 출결을 넣을 때 종료일 칸이 생겼습니다. 하루면 그대로 두면 되고, 며칠이면 종료일을 고르세요. 주말은 건너뛰고 평일마다 한 건씩 저장합니다."
+  "version": "1.0.46",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.46/TRoom_1.0.46_setup.exe",
+  "size": 27790454,
+  "sha256": "b564e6c841a520592fc7ea7fbc2848ba7e90232b6d7951fd53ad64d57c2d479e",
+  "notes": "홈 출결 카드의 ＋ 창에도 시작일~종료일이 생겼습니다. 며칠이면 종료일을 고르면 평일마다 한꺼번에 기록되고, 이미 눌린 버튼을 다시 누르면 그 기간이 지워집니다(확인창이 뜹니다)."
 }
