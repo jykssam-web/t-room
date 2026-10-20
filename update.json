@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.46",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.46/TRoom_1.0.46_setup.exe",
-  "size": 27790454,
-  "sha256": "b564e6c841a520592fc7ea7fbc2848ba7e90232b6d7951fd53ad64d57c2d479e",
-  "notes": "홈 출결 카드의 ＋ 창에도 시작일~종료일이 생겼습니다. 며칠이면 종료일을 고르면 평일마다 한꺼번에 기록되고, 이미 눌린 버튼을 다시 누르면 그 기간이 지워집니다(확인창이 뜹니다)."
+  "version": "1.0.47",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.47/TRoom_1.0.47_setup.exe",
+  "size": 27792133,
+  "sha256": "abb12163cff98d82c062b58f2aa22e56fbe647fc20e9791d71bb7885c9ff72b3",
+  "notes": "설정 > 화면 > 홈 화면 편집을 열었을 때 쓰던 화면이 아닌 기본 배치가 나오던 문제를 고쳤습니다. 보조 모니터나 다른 배율처럼 처음 보는 화면으로 열어도 가장 최근에 맞춰 둔 배치로 시작합니다(글자 크기는 화면마다 따로). 또 같은 증상이 생기면 원인을 알 수 있게 문제 보고에 기록이 남습니다."
 }
