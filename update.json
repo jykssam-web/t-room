@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.53",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.53/TRoom_1.0.53_setup.exe",
-  "size": 27792974,
-  "sha256": "c2615bcc5ea2f8b6cb2c8a7da597967ba060bfbb7bdefb9070436e93a6de4d3a",
-  "notes": "출결에 비고란 추가: 출결 기록 창(기록한 학생 줄 아래)과 출결 수정 창에서 비고를 쓰고 저장, 홈 출결 카드에 마우스를 올리면 비고가 보임"
+  "version": "1.0.54",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.54/TRoom_1.0.54_setup.exe",
+  "size": 27797432,
+  "sha256": "1739c1068fdb054fec3d17948409f4420773d849761f75cd8f6629a31c96c023",
+  "notes": "신고서 미제출: 받음 처리 단추를 이름 바로 옆으로"
 }
