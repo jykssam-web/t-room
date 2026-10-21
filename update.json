@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.49",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.49/TRoom_1.0.49_setup.exe",
-  "size": 27791454,
-  "sha256": "c458ddcab2a6c15c87a1ed29be8bfec58af8ae463b4eb546e833929f99ac1465",
-  "notes": "홈 빈 곳을 오른쪽 클릭하면 색상·글꼴과 글자 크기·홈 화면 편집 메뉴 · 설정 > 화면을 꾸미기·홈 화면·바탕화면 세 묶음으로 정리(달력 메뉴는 홈 달력으로, 최근 삭제 항목은 프로그램 설정으로)"
+  "version": "1.0.50",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.50/TRoom_1.0.50_setup.exe",
+  "size": 27792464,
+  "sha256": "7304b48d5a5bccaa731a8d234f1c867d867c84b222997be9e02ec8f42084c0ff",
+  "notes": "시간표: 오늘 요일 열을 은은하게 강조·바뀐 수업은 빨간 점으로·처음엔 내 교사 시간표·다른 선생님 이름 옆에 주요 과목 표시(정유(수학)) · 타학급에서 담임 학급이 지워지던 것 고침(담임 단추로 내 반 정하기)"
 }
