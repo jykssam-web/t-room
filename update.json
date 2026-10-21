@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.54",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.54/TRoom_1.0.54_setup.exe",
-  "size": 27797432,
-  "sha256": "1739c1068fdb054fec3d17948409f4420773d849761f75cd8f6629a31c96c023",
-  "notes": "신고서 미제출: 받음 처리 단추를 이름 바로 옆으로"
+  "version": "1.0.55",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.55/TRoom_1.0.55_setup.exe",
+  "size": 27794838,
+  "sha256": "a5511222f6cb709edc0cbf2d27c0b14aa61ee0c7c126ded4a59ffc54a1f546ff",
+  "notes": "아침 자동 실행 때 따로 뜨던 「embedded python」 오류 창을 시작 프로그램이 닫음"
 }
