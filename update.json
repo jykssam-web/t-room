@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.50",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.50/TRoom_1.0.50_setup.exe",
-  "size": 27792464,
-  "sha256": "7304b48d5a5bccaa731a8d234f1c867d867c84b222997be9e02ec8f42084c0ff",
-  "notes": "시간표: 오늘 요일 열을 은은하게 강조·바뀐 수업은 빨간 점으로·처음엔 내 교사 시간표·다른 선생님 이름 옆에 주요 과목 표시(정유(수학)) · 타학급에서 담임 학급이 지워지던 것 고침(담임 단추로 내 반 정하기)"
+  "version": "1.0.51",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.51/TRoom_1.0.51_setup.exe",
+  "size": 27793091,
+  "sha256": "17d4337b862e64aef8a786128bdb41eaa33865e7f3e28453fd1115ca62d740dd",
+  "notes": "출결: 홈 출결 카드를 「질병조퇴(2교시부터)」처럼 사유+출결로 표시·결과는 사유 없이 기록하려 하면 사유를 먼저 물음 · 쪽지 정리 창 AI 버튼을 작게·정리 완료 뒤 회색+다시 정리 · 홈 수업관리·도구 카드가 서로 바뀌던 것 고침 · 도구 이름 「글다듬기(AI)」"
 }
