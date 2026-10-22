@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.57",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.57/TRoom_1.0.57_setup.exe",
-  "size": 27798081,
-  "sha256": "ccd1c7ce15bfca8059e3ffca29c0c62918cecd07c39322b95737df5e0bb2b6eb",
-  "notes": "홈 배치·글자 크기를 모니터 해상도별로 저장(같은 크기 모니터는 같은 배치)"
+  "version": "1.0.58",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.58/TRoom_1.0.58_setup.exe",
+  "size": 27803120,
+  "sha256": "15115d827af626d541cd9e4e025983e02c420785b6a05c7afde9c41e90dc8171",
+  "notes": "홈 배치·글자 크기를 모니터마다 따로 저장, 편집 막대에 어느 화면 배치인지 표시"
 }
