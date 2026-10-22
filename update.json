@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.55",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.55/TRoom_1.0.55_setup.exe",
-  "size": 27794838,
-  "sha256": "a5511222f6cb709edc0cbf2d27c0b14aa61ee0c7c126ded4a59ffc54a1f546ff",
-  "notes": "아침 자동 실행 때 따로 뜨던 「embedded python」 오류 창을 시작 프로그램이 닫음"
+  "version": "1.0.56",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.56/TRoom_1.0.56_setup.exe",
+  "size": 27797257,
+  "sha256": "2ed752bf8a0a820fb61b73c3b4c244029cbfe61939f222e335ba9115bbf523a5",
+  "notes": "보조 모니터를 다시 꽂으면 창이 그 모니터 자리·배치로 돌아감"
 }
