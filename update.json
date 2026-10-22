@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.56",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.56/TRoom_1.0.56_setup.exe",
-  "size": 27797257,
-  "sha256": "2ed752bf8a0a820fb61b73c3b4c244029cbfe61939f222e335ba9115bbf523a5",
-  "notes": "보조 모니터를 다시 꽂으면 창이 그 모니터 자리·배치로 돌아감"
+  "version": "1.0.57",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.57/TRoom_1.0.57_setup.exe",
+  "size": 27798081,
+  "sha256": "ccd1c7ce15bfca8059e3ffca29c0c62918cecd07c39322b95737df5e0bb2b6eb",
+  "notes": "홈 배치·글자 크기를 모니터 해상도별로 저장(같은 크기 모니터는 같은 배치)"
 }
