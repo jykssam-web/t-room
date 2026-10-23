@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.59",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.59/TRoom_1.0.59_setup.exe",
-  "size": 27802232,
-  "sha256": "ac0deb924bf55e73a91a686730b205d976753ba3cfd4f030e81ee2ee77a112b2",
-  "notes": "보조 모니터를 꽂고 뽑는 순간 모니터를 잘못 읽어 다른 배치가 뜨던 것을 막음"
+  "version": "1.0.60",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.60/TRoom_1.0.60_setup.exe",
+  "size": 27811759,
+  "sha256": "7507b0ad6a4ccd52d87a8966f07d063f8ee24be394edcbda52dde8368a497085",
+  "notes": "파이썬 오류 창이 뜨면 창 문구와 그 티룸을 켠 프로그램을 기록(문제 보고에 함께 나옴)"
 }
