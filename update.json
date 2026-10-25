@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.62",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.62/TRoom_1.0.62_setup.exe",
-  "size": 28371707,
-  "sha256": "8584aa9fdfdb6d44ebf61e2b904fd28979a3a918a0b01067a350eaf323e88a2b",
-  "notes": "설정에 PC·노트북 바꿀 때 안내 — 옮길 파일 만들기·가져오기 단추, 옮겨지는 것과 안 되는 것 구분"
+  "version": "1.0.63",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.63/TRoom_1.0.63_setup.exe",
+  "size": 28372726,
+  "sha256": "56ee936925c9a4ada93b047410a8c03b3225fc7caf23fd93ad222943ae7fc8f7",
+  "notes": "업데이트가 「다시 시도」 창에서 멈추던 문제 고침 — 켜지다 실패해 남아 있던 티룸을 설치 전에 먼저 끕니다"
 }
