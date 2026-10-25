@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.60",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.60/TRoom_1.0.60_setup.exe",
-  "size": 27811759,
-  "sha256": "7507b0ad6a4ccd52d87a8966f07d063f8ee24be394edcbda52dde8368a497085",
-  "notes": "파이썬 오류 창이 뜨면 창 문구와 그 티룸을 켠 프로그램을 기록(문제 보고에 함께 나옴)"
+  "version": "1.0.61",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.61/TRoom_1.0.61_setup.exe",
+  "size": 28367937,
+  "sha256": "1a8624f06a2ccbfc5886273f2a39e4db0d1c9f312aeb607dbb8328380705621e",
+  "notes": "자리 배치: 학생 명단에서 끌어다 자리에 놓기, 명단 3열로 30명 한눈에, 자리표가 넓어도 명단을 가리지 않음"
 }
