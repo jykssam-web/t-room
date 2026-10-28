@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.67",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.67/TRoom_1.0.67_setup.exe",
-  "size": 28377798,
-  "sha256": "c7742cd9fbfe2f2dbc7fe1eb82049a67e0250565e2cfde78ef4090f96ab98577",
-  "notes": "켤 때·위젯 전환·불러오기 직후 홈 배치가 기본 모양으로 덮어써지던 문제 고침. 바탕화면 위젯도 창 모드 배치를 그대로 씀"
+  "version": "1.0.68",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.68/TRoom_1.0.68_setup.exe",
+  "size": 28379288,
+  "sha256": "73104710097740106d0894612b688240dc74eaeffe43e2c90240aa7dc0a7cf9c",
+  "notes": "하단 메뉴 오른쪽에 「위젯 전환」「창 전환」 단추를 넣었습니다"
 }
