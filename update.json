@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.65",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.65/TRoom_1.0.65_setup.exe",
-  "size": 28376265,
-  "sha256": "905d9c71056eb900547cc77ca56e0735d25f02fca7e91e429f9e2819a38b2419",
-  "notes": "학급관리 > 학생별에서 출결 추가, 상담 추가·수정·삭제 — 홈 카드·달력에 바로 반영"
+  "version": "1.0.66",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.66/TRoom_1.0.66_setup.exe",
+  "size": 28376529,
+  "sha256": "3583e4ea9b2359c758a0cbecd76943225711c91293833f06109d24d4cae874b1",
+  "notes": "아침마다 홈 카드 배치가 기본 모양으로 되돌아가던 문제 고침(설정을 읽다 가끔 실패하면 기본 배치로 덮어쓰던 것). 못 읽으면 다시 읽고, 끝내 못 읽어도 덮어쓰지 않음"
 }
