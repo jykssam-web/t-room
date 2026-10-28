@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.66",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.66/TRoom_1.0.66_setup.exe",
-  "size": 28376529,
-  "sha256": "3583e4ea9b2359c758a0cbecd76943225711c91293833f06109d24d4cae874b1",
-  "notes": "아침마다 홈 카드 배치가 기본 모양으로 되돌아가던 문제 고침(설정을 읽다 가끔 실패하면 기본 배치로 덮어쓰던 것). 못 읽으면 다시 읽고, 끝내 못 읽어도 덮어쓰지 않음"
+  "version": "1.0.67",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.67/TRoom_1.0.67_setup.exe",
+  "size": 28377798,
+  "sha256": "c7742cd9fbfe2f2dbc7fe1eb82049a67e0250565e2cfde78ef4090f96ab98577",
+  "notes": "켤 때·위젯 전환·불러오기 직후 홈 배치가 기본 모양으로 덮어써지던 문제 고침. 바탕화면 위젯도 창 모드 배치를 그대로 씀"
 }
