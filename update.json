@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.69",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.69/TRoom_1.0.69_setup.exe",
-  "size": 28378142,
-  "sha256": "c3fb615ed787805b2d89e8dfed065aa66bb697d775c745ff06dc52a6972099d0",
-  "notes": "비번 메뉴에 수정 단추와 아이디·비번 복사 단추를 넣었습니다. 창 바깥을 눌러도 창이 닫히지 않습니다(× 나 Esc 로 닫기)."
+  "version": "1.0.71",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.71/TRoom_1.0.71_setup.exe",
+  "size": 28380866,
+  "sha256": "c666284fba128dcab83a486f1cc15edf84ec0c7a814ef2029303e602500fbd63",
+  "notes": "폰 화면 글자 대비 개선·화면 색 선택(밝게/어둡게), 교외체험 결석은 체험학습보고서 확인 할일, 폰 연동 문구를 「폰에서 수정한 것 확인」으로"
 }
