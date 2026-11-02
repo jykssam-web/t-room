@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.72",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.72/TRoom_1.0.72_setup.exe",
-  "size": 28381178,
-  "sha256": "c23813d563e8f411377bc3b7d7406c315e333b282afb68e93e58d05b96aa6b20",
-  "notes": "글다듬기 받는 사람에 학생·교사·일반 추가"
+  "version": "1.0.73",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.73/TRoom_1.0.73_setup.exe",
+  "size": 28382005,
+  "sha256": "a9dd422323883a6442c6490869d828323a9340acf09cac94d59fb177b15e879f",
+  "notes": "날짜별 할 일에서 체크하면 한 일이 바로 아래로 내려감"
 }
