@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.74",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.74/TRoom_1.0.74_setup.exe",
-  "size": 28379735,
-  "sha256": "8b68fdb42d3d77121dcfddd913027ba0e87cfd2d7f156ab57451d176b0e6531a",
-  "notes": "폰에서 넣은 출결이 티룸에 반영되지 않던 문제를 고쳤습니다"
+  "version": "1.0.75",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.75/TRoom_1.0.75_setup.exe",
+  "size": 28380554,
+  "sha256": "087806c8e2bf8d23926567c27708ae40660ba0d4f6046a5602d6be67d49c8ad8",
+  "notes": "쓰는 중에도 폰에서 넣은 출결·할 일이 있으면 반영할지 묻는 창이 뜹니다"
 }
