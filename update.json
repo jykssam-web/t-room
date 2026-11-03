@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.73",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.73/TRoom_1.0.73_setup.exe",
-  "size": 28382005,
-  "sha256": "a9dd422323883a6442c6490869d828323a9340acf09cac94d59fb177b15e879f",
-  "notes": "날짜별 할 일에서 체크하면 한 일이 바로 아래로 내려감"
+  "version": "1.0.74",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.74/TRoom_1.0.74_setup.exe",
+  "size": 28379735,
+  "sha256": "8b68fdb42d3d77121dcfddd913027ba0e87cfd2d7f156ab57451d176b0e6531a",
+  "notes": "폰에서 넣은 출결이 티룸에 반영되지 않던 문제를 고쳤습니다"
 }
