@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.75",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.75/TRoom_1.0.75_setup.exe",
-  "size": 28380554,
-  "sha256": "087806c8e2bf8d23926567c27708ae40660ba0d4f6046a5602d6be67d49c8ad8",
-  "notes": "쓰는 중에도 폰에서 넣은 출결·할 일이 있으면 반영할지 묻는 창이 뜹니다"
+  "version": "1.0.76",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.76/TRoom_1.0.76_setup.exe",
+  "size": 28382544,
+  "sha256": "29214c762212877e0fd2612ad794099fbf6d112fa2707624c811586c73799338",
+  "notes": "홈 배치를 이름으로 저장하고 골라 쓰게 바꿈(교무실·교실 등). 하단 「화면 저장」은 이름을 묻고, 「카드 옮기기」는 배치를 고른 뒤 편집, 「＋ 새 배치 만들기」 추가. 지금 배치는 「내 배치」로 들어갑니다"
 }
