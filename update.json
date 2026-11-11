@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.82",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.82/TRoom_1.0.82_setup.exe",
-  "size": 28401173,
-  "sha256": "a151fbdbfc5e4ced61f3bed9abb6a86318edced50c2452e4c1b83bedfe4b33c7",
-  "notes": "폰에서 할 일 고치기·지우기가 PC로 넘어옴(지운 것은 휴지통으로). 폰에서 바꾼 진도표가 「반영」 직후 PC 진도표 화면에 바로 보임"
+  "version": "1.0.84",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.84/TRoom_1.0.84_setup.exe",
+  "size": 28407116,
+  "sha256": "8eae0db033f42cb3f9ddf68dbba36119912271fdb50ed8c42f1f9c6d395efaaf",
+  "notes": "컴시간 시간표가 다시 받아집니다 — 컴시간이 바뀌어 시간표가 예전 것에 멈춰 있던 것 고침. 인터넷이 끊기면 다시 받는 간격을 늘리고, 읽은 시간표가 이상하면 저장하지 않고 예전 것을 그대로 둡니다."
 }
