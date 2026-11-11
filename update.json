@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.81",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.81/TRoom_1.0.81_setup.exe",
-  "size": 28402608,
-  "sha256": "40c1e217945db33bf64d9dc791cc83abbf24a3df506cb538d94c54d7dadb103e",
-  "notes": "자리 배치 인쇄: 가로로 인쇄하면 자리표가 용지에 꽉 차게 커집니다"
+  "version": "1.0.82",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.82/TRoom_1.0.82_setup.exe",
+  "size": 28401173,
+  "sha256": "a151fbdbfc5e4ced61f3bed9abb6a86318edced50c2452e4c1b83bedfe4b33c7",
+  "notes": "폰에서 할 일 고치기·지우기가 PC로 넘어옴(지운 것은 휴지통으로). 폰에서 바꾼 진도표가 「반영」 직후 PC 진도표 화면에 바로 보임"
 }
