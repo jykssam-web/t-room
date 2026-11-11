@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.80",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.80/TRoom_1.0.80_setup.exe",
-  "size": 28403433,
-  "sha256": "e3c1747683321f37999f10424450a83342d4d48815e4242cd59511dbaa6d7cd1",
-  "notes": "상담 엑셀 올리기에서 같은 날짜·같은 학생의 상담이 이미 있으면, 기존 유지 / 새 것으로 바꾸기 / 둘 다 남기기 중에서 고를 수 있습니다."
+  "version": "1.0.81",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.81/TRoom_1.0.81_setup.exe",
+  "size": 28402608,
+  "sha256": "40c1e217945db33bf64d9dc791cc83abbf24a3df506cb538d94c54d7dadb103e",
+  "notes": "자리 배치 인쇄: 가로로 인쇄하면 자리표가 용지에 꽉 차게 커집니다"
 }
