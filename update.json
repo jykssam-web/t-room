@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.85",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.85/TRoom_1.0.85_setup.exe",
-  "size": 28410457,
-  "sha256": "bd440240a5565695b55a5c64bf3f73b531132f626665a1abb81d4a5209148000",
-  "notes": "출결 사유 순서를 질병·인정(생리)·인정(교외체험)·인정·미인정·기타로 바꿈 — 새 기록 사유 기본값이 질병"
+  "version": "1.0.86",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.86/TRoom_1.0.86_setup.exe",
+  "size": 28411025,
+  "sha256": "00eaca1a9b211e430b10f6029ce390e185b5df3515a46d6d91c043c92ed36ee0",
+  "notes": "결석신고서 확인 할일은 질병결석과 인정결석·인정조퇴·인정결과·인정지각에만 생깁니다"
 }
