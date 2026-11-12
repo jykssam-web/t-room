@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.84",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.84/TRoom_1.0.84_setup.exe",
-  "size": 28407116,
-  "sha256": "8eae0db033f42cb3f9ddf68dbba36119912271fdb50ed8c42f1f9c6d395efaaf",
-  "notes": "컴시간 시간표가 다시 받아집니다 — 컴시간이 바뀌어 시간표가 예전 것에 멈춰 있던 것 고침. 인터넷이 끊기면 다시 받는 간격을 늘리고, 읽은 시간표가 이상하면 저장하지 않고 예전 것을 그대로 둡니다."
+  "version": "1.0.85",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.85/TRoom_1.0.85_setup.exe",
+  "size": 28410457,
+  "sha256": "bd440240a5565695b55a5c64bf3f73b531132f626665a1abb81d4a5209148000",
+  "notes": "출결 사유 순서를 질병·인정(생리)·인정(교외체험)·인정·미인정·기타로 바꿈 — 새 기록 사유 기본값이 질병"
 }
