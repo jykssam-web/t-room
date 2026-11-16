@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.86",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.86/TRoom_1.0.86_setup.exe",
-  "size": 28411025,
-  "sha256": "00eaca1a9b211e430b10f6029ce390e185b5df3515a46d6d91c043c92ed36ee0",
-  "notes": "결석신고서 확인 할일은 질병결석과 인정결석·인정조퇴·인정결과·인정지각에만 생깁니다"
+  "version": "1.0.87",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.87/TRoom_1.0.87_setup.exe",
+  "size": 28412219,
+  "sha256": "3bd076bac0eba95484a4498be08361feb82a9e367e65f9e55ad7b7c03db3ec6c",
+  "notes": "폰에서 넣은 출결·할 일이 PC로 안 넘어오던 문제를 고쳤습니다"
 }
