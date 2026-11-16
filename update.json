@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.88",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.88/TRoom_1.0.88_setup.exe",
-  "size": 28410676,
-  "sha256": "dd71c26de9cf5ce7075caf7535e62b6f35db125a130204b94e8da15272d91728",
-  "notes": "글다듬기 말투를 여섯 가지 더 넣었습니다(친근하게·공감하며·감사하게·양해 구하며·격식 있게·읽기 쉽게 정리)"
+  "version": "1.0.89",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.89/TRoom_1.0.89_setup.exe",
+  "size": 28415928,
+  "sha256": "9b0d07e8b5253218cb400afd59509aad7f8ea129fc1cd8c132a6498ff10cba92",
+  "notes": "구글 다시 연결이 안 되던 문제를 고쳤고, 폰 연동이 실패하면 이유를 보여 줍니다"
 }
