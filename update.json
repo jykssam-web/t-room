@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.87",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.87/TRoom_1.0.87_setup.exe",
-  "size": 28412219,
-  "sha256": "3bd076bac0eba95484a4498be08361feb82a9e367e65f9e55ad7b7c03db3ec6c",
-  "notes": "폰에서 넣은 출결·할 일이 PC로 안 넘어오던 문제를 고쳤습니다"
+  "version": "1.0.88",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.88/TRoom_1.0.88_setup.exe",
+  "size": 28410676,
+  "sha256": "dd71c26de9cf5ce7075caf7535e62b6f35db125a130204b94e8da15272d91728",
+  "notes": "글다듬기 말투를 여섯 가지 더 넣었습니다(친근하게·공감하며·감사하게·양해 구하며·격식 있게·읽기 쉽게 정리)"
 }
