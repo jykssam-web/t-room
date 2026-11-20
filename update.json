@@ -1,8 +1,8 @@
 {
   "format": 1,
-  "version": "1.0.91",
-  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.91/TRoom_1.0.91_setup.exe",
-  "size": 28414852,
-  "sha256": "eae0e5dad8b7031d52f0b0141e1a137348c6ea64180557d5237ca762920f13a8",
-  "notes": "학급관리 > 상담 탭의 상담 기록을 고칠 수 있는 「수정」 버튼을 붙였습니다."
+  "version": "1.0.92",
+  "url": "https://github.com/jykssam-web/t-room/releases/download/v1.0.92/TRoom_1.0.92_setup.exe",
+  "size": 28416622,
+  "sha256": "004320c3baf5bfc81dfb21df027fd45b6aa8fac8c065aacef27bdcaa3c0920e5",
+  "notes": "학급관리 > 출결에서 「넣기」를 누르면 넣을 내용을 보여 주고 한 번 더 묻습니다."
 }
